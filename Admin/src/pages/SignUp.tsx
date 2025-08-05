@@ -95,7 +95,7 @@ const SignIn: React.FC = () => {
           Welcome Back
         </h1>
         <p className="text-gray-600 text-center mb-8">
-          Sign in to your account
+          Sign up 
         </p>
 
         <form onSubmit={handleSubmit} className="space-y-6">
